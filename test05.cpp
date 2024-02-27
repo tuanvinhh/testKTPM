@@ -4,6 +4,6 @@ int main() {
 	std::cout << "Hello World!";
 	std::cout << "Test thêm text!";
 	std::cout << "thêm text sau khi dã t?o nhánh m?i!";
-	std::cout << "thêm trong main";
+	std::cout << "them txt trong main";
     return 0;
 }
