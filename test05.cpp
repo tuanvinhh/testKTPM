@@ -13,6 +13,8 @@ int main() {
 >>>>>>> 2cdc8f8efb0a44511bc536421936b9670749a395
 =======
 	std::cout << "test conflict ( o nhanh feature) ";
+
+	std::cout << " them text";
 >>>>>>> feature-new
     return 0;
 }
